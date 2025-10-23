@@ -1,6 +1,6 @@
 # Frontend Prompt Guide — VS Code & GitHub Copilot
 
-A compact, import-ready prompt guide for frontend work (paste into a Loop doc). Designed for VS Code + GitHub Copilot workflows. Short, direct, practical — no fluff, a little cheeky.
+ Designed for VS Code + GitHub Copilot workflows. Short, direct, practical — no fluff, a little cheeky.
 
 ## How to use
 
