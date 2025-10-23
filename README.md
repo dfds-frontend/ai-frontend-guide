@@ -102,7 +102,7 @@ Keep prompts small, specific, and testable. Ask the agent to plan and correct it
 - Testing steps. Ask for exact commands to run locally (install, test, typecheck, and a quick manual smoke test).
 - If it drifts, rewind. If the agent starts changing scope or suggesting shortcuts (e.g., // @ts-ignore), ask it to revert to the approved plan and retry. Commit early and often.
 
-# Quick prompt you can paste:
+**Quick prompt you can paste:**
 
 Scope: Add IconButton component (Node 20, pnpm). Edit only: /apps/control-tower/components/IconButton.tsx, index.ts.
 Step 1: Describe the plan and list files changed.
